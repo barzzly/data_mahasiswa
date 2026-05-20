@@ -1,3 +1,3 @@
-<footer class="bg-dark text-white text-center p-3 mt-5">
-    Copyright © 2026 PNP
+<footer class="siakad-footer">
+    <span>Copyright &copy; {{ date('Y') }} SIAKAD — Politeknik Negeri Padang. All rights reserved.</span>
 </footer>
